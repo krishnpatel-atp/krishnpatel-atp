@@ -4,7 +4,7 @@
 
 I'm a junior at Briar Woods High School in Ashburn, Virginia (class of 2028). I work on computational and theoretical research questions that sit between physics and neuroscience, and I care most about doing that work reproducibly: preregistered analyses, honest null models, and results that are allowed to fail.
 
-- Independent research in scientific computing, mathematical modeling, and neural signal analysis (2023–present)
+- Independent research in scientific computing, mathematical modeling, and neural signal analysis (2025–present)
 - Research collaboration with professors and doctoral researchers at George Mason University
 - Approved user of Human Connectome Project (HCP) data
 - Contact: krishnvpatel2010@gmail.com
